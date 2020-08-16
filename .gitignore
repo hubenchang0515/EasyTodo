@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# easy-todo-frontend
+/easy-todo-frontend/build/
+/easy-todo-frontend/node_modules/
+react-app-env.d.ts
+
+# easy-todo-backend
+/easy-todo-backend/frontend/
+__pycache__/
+*.sqlite
